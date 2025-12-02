@@ -24,7 +24,7 @@ This function ensures the initialization of the program. Failing to do so will r
 
 
 ### End Line Syntax:
-It is to be noted that the end of each line is to be separated by a semicolon `;`. Failing to do so will raise a `SyntaxError` and the program will stop running.\
+It is to be noted that the end of each line is to be separated by a semicolon `;`. Failing to do so will raise a `SyntaxError` and the program will stop running.
 
 Besides, to ensure programmer readability, the start and end of the line can have one or multiple spaces.
 
