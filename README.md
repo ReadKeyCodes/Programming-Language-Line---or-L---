@@ -173,7 +173,7 @@ Currently does nothing.
 
 
 ### def variables(v_list: list):
-Takes a `list` where the first item is the `variable name` and the second item is the `integer`. It declares the variable and stores the integer
+Takes a `list` where the first item is the `variable name` and the second item is the `integer`. It declares the variable and stores the integer.
 
 ### def addition(ad_list: list):
 Takes a `list` where the first item is the variable name where the return value of addition() will be stored. The second and third items are the variables(or direct integers) which are to be added. It adds them together following the given procedure:
