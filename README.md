@@ -55,6 +55,7 @@ or:\
 
 >[!CAUTION]
 >In naming and assigning of variables, quoting the example, if `variable3` matches with any other already declared variable in the code, `variable3` will overwrite the previous variable's value.\
+
 >[!NOTE]
 >Quoting the example, the two parameters inside the FunctionName() must either be both direct integers or variables previously declared in code. It cannot be a combination of direct integer and a prevously declared variable.
 
