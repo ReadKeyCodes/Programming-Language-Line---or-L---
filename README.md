@@ -237,9 +237,14 @@ To understand in more detail, you are welcome to read the source code of the Lin
 
 
 # Afterword:
-I hope I was able to explain my project well enough and describe its functions, how to use it and how it works in this `README.md` file. Writing my own programming language, no matter how small, was one of my bucket list items within my programming hobby and I am happy I was able to fulfill it thanks to cs50.\
-At first, I debated whether I should use classes for writing my code. I took a risk not to use classes because I want to trial and error using classes first in some smaller projects rather than a project like this. But later, I found my code to be less complicated than I thought, seeing the whole interpreter completed in approximately 169 lines of code.\
-The type hints of the last lecture really helped me a lot. Now with type hints, I can just look at a function and say what it inputs and what it outputs. I can't imagine how much time it would've taken me to complete this project without it. I will definately be using it in my future projects.\
-In the near future, when I become more experienced with the python language, maybe I will come back to this project and develop it even further. Maybe I would actually publish my language and rename it to "Line++" or just "Line" or "L" instead of "Line--".\
-I am grateful that such an amazing course was made available to the public for free of cost. It has helped me, and probably many other hesitant and fearful programmers feel at ease using this programming language and falling in love with its freestyle syntax and its wonderful possibilities.\
+I hope I was able to explain my project well enough and describe its functions, how to use it and how it works in this `README.md` file. Writing my own programming language, no matter how small, was one of my bucket list items within my programming hobby and I am happy I was able to fulfill it thanks to cs50.
+
+At first, I debated whether I should use classes for writing my code. I took a risk not to use classes because I want to trial and error using classes first in some smaller projects rather than a project like this. But later, I found my code to be less complicated than I thought, seeing the whole interpreter completed in approximately 169 lines of code.
+
+The type hints of the last lecture really helped me a lot. Now with type hints, I can just look at a function and say what it inputs and what it outputs. I can't imagine how much time it would've taken me to complete this project without it. I will definately be using it in my future projects.
+
+In the near future, when I become more experienced with the python language, maybe I will come back to this project and develop it even further. Maybe I would actually publish my language and rename it to "Line++" or just "Line" or "L" instead of "Line--".
+
+I am grateful that such an amazing course was made available to the public for free of cost. It has helped me, and probably many other hesitant and fearful programmers feel at ease using this programming language and falling in love with its freestyle syntax and its wonderful possibilities.
+
 Thank you cs50!
