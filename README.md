@@ -4,7 +4,7 @@ Line--, also known as L-- is the programming language that I have made for the f
 
 
 ## Introduction:
-Line-- is a staticly typed programming language(a sub-language would be a better fit) where all of the code is to be written in one continuous line. This feature gave the language its name, Line--, inspired by the name `C++`. But due to the lack of many functionalities that a programming language has, it has been named with '--' instead of '++'.
+Line-- is a statically typed programming language(a sub-language would be a better fit) where all of the code is to be written in one continuous line. This feature gave the language its name, Line--, inspired by the name `C++`. But due to the lack of many functionalities that a programming language has, it has been named with '--' instead of '++'.
 
 
 # Front End:
