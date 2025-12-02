@@ -125,7 +125,7 @@ Expects a `str` and returns a `list`. It takes the whole `input of the L--` code
 
 
 ### def code_sort(cs_individual_line: str) -> tuple:
-Expects a `str` and returns a `tuple`. It takes an `individual line` from the `list of individual lines of L-- code` and matches it with an existing `dictionary of L-- syntaxes`. Later, it returns the str of a `key` and a `list of variables and values`(if any) as a tuple.\
+Expects a `str` and returns a `tuple`. It takes an `individual line` from the `list of individual lines of L-- code` and matches it with an existing `dictionary of L-- syntaxes`. Later, it returns the str of a `key` and a `list of variables and values`(if any) as a tuple.
 
 If the function cannot match the given line with any of the syntaxes of the `dictionary of L-- syntaxes`, it raises a `SyntaxError`.
 
@@ -134,19 +134,19 @@ If the function cannot match the given line with any of the syntaxes of the `dic
 
 
 ### def check_for_spaces(cfs_list: list) -> bool:
-Expects a `list` and returns a `bool`. It takes in `list of individual lines of L-- code` and iterates over the `individual lines` checking if there is any spaces in between the words.\
+Expects a `list` and returns a `bool`. It takes in `list of individual lines of L-- code` and iterates over the `individual lines` checking if there is any spaces in between the words.
 
 Returns `True` if any line contains any space and `False` otherwise.
 
 
 ### def check_start_end(cse_list: list) -> bool:
-Expects a `list` and returns a `bool`. It takes in `list of individual lines of L-- code` and checks if the first and line of the code is `exists_Line--` and `EXIT[0]` respectively.\
+Expects a `list` and returns a `bool`. It takes in `list of individual lines of L-- code` and checks if the first and line of the code is `exists_Line--` and `EXIT[0]` respectively.
 
 Returns `True` if first and line of the code is `exists_Line--` and `EXIT[0]` respectively and `False` otherwise.
 
 
 ### def check_global_var(cgv_var1: str, cgv_var2: str) -> bool:
-Expects two `str`'s and returns a `bool`. It checks if both of the two variable is already declared previously. To check if only one variable is already declared or not, one str can be inputted into the two arguments.\
+Expects two `str`'s and returns a `bool`. It checks if both of the two variable is already declared previously. To check if only one variable is already declared or not, one str can be inputted into the two arguments.
 
 Returns `True` if both of the two variable is already declared and raises `ValueError` otherwise.
 
